@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="list" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.integers" />
+          <option value="main.num" />
+          <option value="turtle.showturtle.norm" />
+          <option value="turtle.showturtle.figure" />
+          <option value="int.random" />
+          <option value="int.mean" />
+          <option value="int.sqrt" />
+          <option value="turtle.showturtle.plot" />
+          <option value="turtle.showturtle.yticks" />
+          <option value="turtle.showturtle.xticks" />
+          <option value="turtle.showturtle.xlim" />
+          <option value="object.iloc" />
+          <option value="object.__setitem__" />
+          <option value="str.array" />
+          <option value="main.name_list" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
